@@ -5,14 +5,18 @@ Dla tych co byli na trasie i idą z pamięci:
 [CHANGELOG](./CHANGELOG.md)
 
 ## INFORMACJE:
-- aktualne dane trasy znajdują się, w folderze dla danego roku, poprawy trasy/śladu są w releas-ach.
+- Aktualne dane trasy znajdują się, w folderze dla danego roku, poprawy trasy/śladu są w releas-ach.
   Gdzie numer releas-a X.Y.Z
   - X - rok
   - Y - zmiana na trasie
   - Z - poprawa błędów
-- trasa została poprowadzona przez drogami/ścieżkami/mostkami przez łąki, pola i lasy, starając, by jak najbardziej zmniejszyć ilość trasy przez obszary zabudowane. Jeśli dochodzisz do punktu w którym musisz przeprawiać się wpław przez rzeczkę, czy skakać przez rów oznacza to, że jest błąd w opisie/śladzie lub zabłądziłeś(aś) ;) Jeśli trzeba iść na przełaj jest to możliwe jasno opisane: np. "przejdź przez pole".
-- różne mapy online, czasami różnią się w drobnych szczegółach, mapa została poprowadzona na Google Maps. Miej to na uwadze patrząc na ślad.
-- jeśli znajdziesz błąd w opisie/śladzie, czy będziesz miał(a) uwagi/sugestie będę bardzo wdzieczny za zgłoszenie issue
+- Trasa została poprowadzona przez drogami/ścieżkami/mostkami przez łąki, pola i lasy, starając, by jak najbardziej zmniejszyć ilość trasy przez obszary zabudowane. Jeśli dochodzisz do punktu w którym musisz przeprawiać się wpław przez rzeczkę, czy skakać przez rów oznacza to, że jest błąd w opisie/śladzie lub zabłądziłeś(aś) ;) Jeśli trzeba iść na przełaj jest to możliwe jasno opisane: np. "przejdź przez pole".
+- Różne mapy online, czasami różnią się w drobnych szczegółach, mapa została poprowadzona na Google Maps. Miej to na uwadze patrząc na ślad.
+- Jeśli znajdziesz błąd w opisie/śladzie, czy będziesz miał(a) uwagi/sugestie będę bardzo wdzieczny za zgłoszenie issue
+
+## STRONY
+[Strona trasy na Facebook-u](https://www.facebook.com/profile.php?id=61556573920527)  
+[Strona trasy na profilu EDK](https://trasy.edk.org.pl/areas/pruszkow/route/biala-sw-kazimierza)
 
 ## STACJE
 ### STACJA 1
