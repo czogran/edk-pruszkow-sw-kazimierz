@@ -6,30 +6,43 @@
 
 ## STACJE
 ### STACJA 1
-![stacja 1](/stacje/stacja-1.jpg)
+<img src="/stacje/stacja-1.jpg" alt="stacja 1" width="200"/>
+
 ### STACJA 2
-![stacja 2](/stacje/stacja-2.jpg)
+<img src="/stacje/stacja-2.jpg" alt="stacja 2" width="200"/>
+
 ### STACJA 3
-![stacja 3](/stacje/stacja-3.jpg)
+<img src="/stacje/stacja-3.jpg" alt="stacja 3" width="200"/>
+
 ### STACJA 4
-![stacja 4](/stacje/stacja-4.jpg)
+<img src="/stacje/stacja-4.jpg" alt="stacja 4" width="200"/>
+
 ### STACJA 5
-![stacja 5](/stacje/stacja-5.jpg)
+<img src="/stacje/stacja-5.jpg" alt="stacja 5" width="200"/>
+
 ### STACJA 6
-![stacja 6](/stacje/stacja-6.jpg)
+<img src="/stacje/stacja-6.jpg" alt="stacja 6" width="200"/>
+
 ### STACJA 7
-![stacja 7](/stacje/stacja-7.jpg)
+<img src="/stacje/stacja-7.jpg" alt="stacja 7" width="200"/>
+
 ### STACJA 8
-![stacja 8](/stacje/stacja-8.jpg)
+<img src="/stacje/stacja-8.jpg" alt="stacja 8" width="200"/>
+
 ### STACJA 9
-![stacja 9](/stacje/stacja-9.jpg)
+<img src="/stacje/stacja-9.jpg" alt="stacja 9" width="200"/>
+
 ### STACJA 10
-![stacja 10](/stacje/stacja-10.jpg)
+<img src="/stacje/stacja-10.jpg" alt="stacja 10" width="200"/>
+
 ### STACJA 11
-![stacja 11](/stacje/stacja-11.jpg)
+<img src="/stacje/stacja-11.jpg" alt="stacja 11" width="200"/>
+
 ### STACJA 12
-![stacja 12](/stacje/stacja-12.jpg)
+<img src="/stacje/stacja-12.jpg" alt="stacja 12" width="200"/>
+
 ### STACJA 13
-![stacja 13](/stacje/stacja-13.jpg)
+<img src="/stacje/stacja-13.jpg" alt="stacja 13" width="200"/>
+
 ### STACJA 14
-![stacja 14](/stacje/stacja-14.jpg)
+<img src="/stacje/stacja-14.jpg" alt="stacja 14" width="200"/>
