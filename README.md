@@ -16,7 +16,7 @@ Dla tych co byli na trasie i idą z pamięci:
 
 ## STRONY
 [Strona trasy na Facebook-u](https://www.facebook.com/profile.php?id=61556573920527)  
-[Strona trasy na profilu EDK](https://trasy.edk.org.pl/areas/pruszkow/route/biala-sw-kazimierza)
+[Strona trasy na oficjalnej stronie EDK](https://trasy.edk.org.pl/areas/pruszkow/route/biala-sw-kazimierza)
 
 ## STACJE
 ### STACJA 1
