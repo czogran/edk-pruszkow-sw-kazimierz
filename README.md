@@ -21,6 +21,10 @@ Dla tych co byli na trasie i idą z pamięci:
 ## MAPA TRASY
 [Link do mapy](https://www.google.com/maps/d/u/0/edit?mid=1HpXPXgGd62JMpNi2Db-Lzi3icsixqjo&usp=sharing)
 
+## CO ZABRAĆ
+[WYPOSAŻENIE](./EQUIPMENT.md)
+
+
 ## STACJE
 ### STACJA 1
 <img src="/stacje/stacja-1.jpg" alt="stacja 1" width="200"/>
