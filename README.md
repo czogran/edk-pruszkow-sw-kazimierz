@@ -48,7 +48,7 @@ Dla tych co byli na trasie i idą z pamięci:
 <img src="/stacje/stacja-7.jpg" alt="stacja 7" width="200"/>
 
 ### STACJA 8
-<img src="/stacje/stacja-8.jpg" alt="stacja 8" width="200"/>
+<img src="/stacje/stacja-8v1.jpg" alt="stacja 8" width="200"/>
 
 ### STACJA 9
 <img src="/stacje/stacja-9.jpg" alt="stacja 9" width="200"/>

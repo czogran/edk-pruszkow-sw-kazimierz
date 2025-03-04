@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## 2025
+### ZMIANY W TERENIE
+- Ogrodzenie kawałka terenu za cmentarzem I wojny światowej w Pęcicach
+- Wyłożenie betonowymi płytami ścieżki za cmentarzem pierwszej wojny światowej
+- Nowa ścieżka rowerowa za lasem Młochowskim
+- Koniec remontu Wojska Polskiego, nowe rondo
+### ZMIANY NA TRASIE
+- Przesunięcie stacji 8 z mostku do kapliczki
+- Inne przejście przez Wojska Polskiego i dojście do Kościoła Matki Boskiej Nieustającej Pomocy(stacja XIII)
+### NAPRAWIONE BŁĘDY
+- Poprawa stylistyki opisu
+
 ## 2024
 ### ZMIANY W TERENIE
 - Ogrodzenie terenu szpitala w Tworkach
@@ -20,13 +32,3 @@
 - Lepszy opis skrętu w odpowiednią drogę na koniec Starej Wsi
 - Dokładniejsze wyznaczaenie trasy koło Strumyka w Owczarni
 - Dokładniejsze ułożenie śladu wzdłuż dróg
-
-## 2025
-### ZMIANY W TERENIE
-- Ogrodzenie kawałka terenu za cmentarzem I wojny światowej w Pęcicach
-- Wyłożenie betonowymi płytami ścieżki za cmentarzem pierwszej wojny światowej
-- Nowa ścieżka rowerowa za lasem Młochowskim
-- Koniec remontu Wojska Polskiego, nowe rondo
-### ZMIANY NA TRASIE
-- Przesunięcie stacji 8 z mostku do kapliczki
-- Inne przejście przez Wojska Polskiego i dojście do Kościoła Matki Boskiej Nieustającej Pomocy(stacja XIII)
