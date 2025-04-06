@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026
+### NAPRAWIONE BŁĘDY
+- Poprawinie opisu przejścia przez pole za groblą z dwoma BTS-ami w Pęcicach
+- Bardziej wyraźnie opisane co znaczy "prosto" przy przejsciu przez światła, po przejściu przez pola w Pęcicach
+- Wyraźniejsze napisanie, co oznacza "prosto" na skrzyżowaniu, za szlabanem w lesie Młochowskim
+
 ## 2025
 ### ZMIANY W TERENIE
 - Ogrodzenie kawałka terenu za cmentarzem I wojny światowej w Pęcicach
